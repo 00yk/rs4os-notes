@@ -2,3 +2,5 @@
 * Add rustling solutions
 upstream: [https://github.com/rust-lang/rustlings]
 my solution: [https://github.com:00yk/rsling-solutions.git]
+* Add rust quiz worktree
+[https://github.com:00yk/rust-quiz-worktree.git]

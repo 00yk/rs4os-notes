@@ -3,6 +3,6 @@
 * The camp uses Chinese offline, yet I decide to record the process in English(ASCII) for a broader potential audience if that may help.
 * Stage 1
 ** Be familiar with Rust
-*** Rustlings
-*** Rust quiz
+*** DONE Rustlings
+*** DONE Rust quiz
 ** Finish rCore tutorials
