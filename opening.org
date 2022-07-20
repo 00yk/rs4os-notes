@@ -1,6 +1,6 @@
 #+title: Opening
 
-* The camp uses Chinese offline, yet I decide to record the process in English(ASCII) for a broader potential audience if that may help.
+- The camp uses Chinese offline, yet I decide to record the process in English(ASCII) for a broader potential audience if that may help.
 * Stage 1
 ** Be familiar with Rust
 *** DONE Rustlings
