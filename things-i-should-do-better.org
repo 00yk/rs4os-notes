@@ -1,0 +1,15 @@
+#+TITLE: Things I Should Do Better
+
+* Spend 7-10 days on rust language exercises
+rust-quiz have too many extreme tricks on Rustlang itself,
+which are not very useful for solving rCore-tutorial labs,
+not a good spend of time in a time-limited camp.
+
+* Make good use of debugging tools
+A good debugging tool boosts productivity and reduces frustration when
+reading documentation and code reference framework.
+The gdb tutorial in rCore documentation didn't help to make it work, spend
+too much time re-reading code rather than debugging through a simple example.
+
+* good/bad
+Focusing on details irrelevant to problems(lab) too much hurts progression.

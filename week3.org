@@ -1,4 +1,6 @@
 #+TITLE: Week3
 
-* Add lab1
+* Add [[https://github.com/LearningOS/lab1-os3-00yk][lab1 solution]]
 * Read [[http://rcore-os.cn/rCore-Tutorial-Book-v3/chapter0/7exercise.html][rCore tutorial]] chap0-1
+- Try gdb debugging
+* Read page table code
